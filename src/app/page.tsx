@@ -4,7 +4,7 @@ import PaymentMethod from './Component/Payment-method';
 
 const Home = () => {
   return (
-    <div className='flex w-full'>
+    <div className='block w-full md:flex'>
       <Subcription />
       <PaymentMethod  />
     </div>

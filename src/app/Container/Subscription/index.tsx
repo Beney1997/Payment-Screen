@@ -6,7 +6,7 @@ const subscriptionContainer= () => {
   
   return (
   
-        <div className="pt-6 md:py-4  lg:grid-cols-[1fr,_.7fr] items-center w-3/5">
+        <div className="pt-6 md:py-4 flex item-center justify-center md:w-3/5">
             <Form />
             
         </div>
